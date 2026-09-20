@@ -70,13 +70,17 @@ sources de données ouvertes. En équipe de trois, en un mois.
 
 > **3ᵉ place au Datathon de la Région Normandie.**
 
+**6.** &nbsp;<ins>**[Formula1](https://github.com/amine-sd/Formula1)**</ins> &nbsp;`C/C++` `Algorithmie` `Optimisation`
+
+Un pilote autonome pour simulateur académique : à chaque tour, décider de la trajectoire et de la
+vitesse sous contraintes physiques, sans intervention.
+
+> **2ᵉ sur 36.**
+
 <details>
 <summary>🗄️ &nbsp;<b>Projets plus anciens</b></summary>
 
 <br>
-
-<ins>**[Formula1](https://github.com/amine-sd/Formula1)**</ins> &nbsp;·&nbsp; pilote autonome pour
-simulateur académique, optimisation des trajectoires sous contraintes physiques. **2ᵉ sur 36.**
 
 <ins>**[Snake](https://github.com/amine-sd/Snake)**</ins> &nbsp;et&nbsp;
 <ins>**[Brick_Breaker](https://github.com/amine-sd/Brick_Breaker)**</ins> &nbsp;·&nbsp; projets Java
