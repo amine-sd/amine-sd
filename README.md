@@ -135,10 +135,6 @@ de première année.
 
 <div align="center">
 
-**Un système qui n'a pas été mesuré n'est pas un système qui marche, c'est un système dont on ignore les erreurs.**
-
-<br>
-
 <ins>**[aminesd710@gmail.com](mailto:aminesd710@gmail.com)**</ins> &nbsp;·&nbsp;
 <ins>**[LinkedIn](https://www.linkedin.com/in/amine-saidi-1b2343294/)**</ins>
 
