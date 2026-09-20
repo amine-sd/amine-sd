@@ -40,7 +40,7 @@ et une intégration continue qui rejoue tout hors ligne.
 
 Une application LLM protégée par quatre garde-fous, un agent qui les attaque sur six familles du
 OWASP Top 10, et un juge dont la fiabilité est elle-même mesurée. Les garde-fous ramènent le
-contournement à **0 %**, et le prix payé en faux positifs est publié juste à côté : une défense qui
+contournement mesuré à **0 %**, et le prix payé en faux positifs est publié juste à côté : une défense qui
 bloque tout n'en est pas une.
 
 > **Le juge LLM a été écarté : kappa 0,23 contre 50 étiquettes humaines, indistinguable du hasard.
