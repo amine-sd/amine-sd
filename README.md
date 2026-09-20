@@ -2,9 +2,7 @@
 
 # Amine Saidi
 
-**Élève ingénieur en dernière année à l'ENSICAEN** &nbsp;·&nbsp; Majeure Intelligence Artificielle, Image et Son
-
-Je conçois des systèmes d'IA de bout en bout, et je mesure ce qu'ils valent avant de les annoncer.
+**Élève ingénieur en dernière année à l'ENSICAEN** &nbsp;·&nbsp; Majeure Image, Son et Intelligence Artificielle
 
 <br>
 
@@ -19,7 +17,7 @@ Je conçois des systèmes d'IA de bout en bout, et je mesure ce qu'ils valent av
 
 ## 🎯 &nbsp;En bref
 
-- 🎓 &nbsp;Dernière année à l'**ENSICAEN**, majeure IA, Image et Son, après une prépa MPSI/MP
+- 🎓 &nbsp;Dernière année à l'**ENSICAEN**, majeure Image, Son et IA, après une prépa MPSI/MP
 - 🔬 &nbsp;Quatre mois d'ingénierie IA à la **Bibliothèque nationale et universitaire de Strasbourg**, en partenariat avec la **BnF** : un moteur de recherche **RAG** servi par un LLM local, et des modèles de **deep learning** entraînés puis évalués face aux annotations d'une experte
 - 🧭 &nbsp;Ce qui m'occupe : **LLM, RAG et agents**, **machine learning** et vision par ordinateur, et la **fiabilité** des systèmes qu'on en tire
 - 🚀 &nbsp;Je cherche un **stage de fin d'études de six mois, en 2027**
@@ -38,7 +36,17 @@ et une intégration continue qui rejoue tout hors ligne.
 
 > **Résultat publié : 18 décisions dangereuses sur 25 pour l'agent, 2 pour un script de règles.**
 
-**2.** &nbsp;<ins>**[gallica-ovide-bnu](https://github.com/amine-sd/gallica-ovide-bnu)**</ins> &nbsp;`PyTorch` `YOLOv5` `ResNet50` `DINOv2` `RAG`
+**2.** &nbsp;<ins>**[agent-red-teaming-llm](https://github.com/amine-sd/agent-red-teaming-llm)**</ins> &nbsp;`Python` `FastAPI` `OWASP` `Ollama`
+
+Une application LLM protégée par quatre garde-fous, un agent qui les attaque sur six familles du
+OWASP Top 10, et un juge dont la fiabilité est elle-même mesurée. Les garde-fous ramènent le
+contournement à **0 %**, et le prix payé en faux positifs est publié juste à côté : une défense qui
+bloque tout n'en est pas une.
+
+> **Le juge LLM a été écarté : kappa 0,23 contre 50 étiquettes humaines, indistinguable du hasard.
+> Un vérificateur déterministe le remplace, validé à 0,90.**
+
+**3.** &nbsp;<ins>**[gallica-ovide-bnu](https://github.com/amine-sd/gallica-ovide-bnu)**</ins> &nbsp;`PyTorch` `YOLOv5` `ResNet50` `DINOv2` `RAG`
 
 Le code de mon stage à la BNU de Strasbourg : rendre interrogeable un fonds de livres anciens
 numérisés, sans jeu de données annoté au départ. Segmentation des illustrations gravées (YOLOv5),
@@ -47,7 +55,7 @@ embeddings gelés (DINOv2), et un moteur de recherche en langage naturel servi p
 
 > **F1 = 0,894** sur la technique, **94,1 %** sur l'auteur, mesuré sur une édition jamais vue à l'entraînement.
 
-**3.** &nbsp;<ins>**[Todo-List](https://github.com/amine-sd/Todo-List)**</ins> &nbsp;`Jenkins` `Docker` `Kubernetes`
+**4.** &nbsp;<ins>**[Todo-List](https://github.com/amine-sd/Todo-List)**</ins> &nbsp;`Jenkins` `Docker` `Kubernetes`
 
 Une application de gestion de tâches, et surtout sa chaîne de livraison : un pipeline Jenkins
 construit son image Docker multi-stage, la publie sur un registre, puis crée ou met à jour son
@@ -55,7 +63,7 @@ construit son image Docker multi-stage, la publie sur un registre, puis crée ou
 
 > Le pipeline a demandé plus de commits que l'application.
 
-**4.** &nbsp;<ins>**[formaroute](https://github.com/amine-sd/formaroute)**</ins> &nbsp;`Spring Boot` `PostgreSQL` `Open Data`
+**5.** &nbsp;<ins>**[formaroute](https://github.com/amine-sd/formaroute)**</ins> &nbsp;`Spring Boot` `PostgreSQL` `Open Data`
 
 Classer les formations par temps de trajet réel plutôt qu'à vol d'oiseau, à partir de quatre
 sources de données ouvertes. En équipe de trois, en un mois.
@@ -113,7 +121,7 @@ de première année.
 
 | | |
 |---|---|
-| **ENSICAEN** | Ingénieur en informatique, majeure ISIA (IA, Image et Son) · 2023 à aujourd'hui |
+| **ENSICAEN** | Ingénieur en informatique, majeure ISIA (Image, Son et IA) · 2023 à aujourd'hui |
 | **LYMED**, Martil | Classes préparatoires MPSI / MP · 2021 à 2023 |
 | <ins>**[CS50](https://cs50.harvard.edu/certificates/8a4f5f57-8db6-4c2e-8211-5def88e4fc1c)**</ins>, Harvard University | Programmation C et Python, algorithmique · décembre 2024 · *certificat vérifiable* |
 | <ins>**[DevOps Learning Path](https://app.manara.tech/verify-certificate?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjZXJ0aWZpY2F0ZUlkIjozNTI5MCwiaWF0IjoxNzUyMTA3NTI2fQ.qIE6Xe9v_aGQytimw-FzWf22YInYIXRfUefiXGNHo-s)**</ins>, Manara | CI/CD, IaC, Docker, Kubernetes, Jenkins · juillet 2025 · *certificat vérifiable* |
