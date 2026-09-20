@@ -19,7 +19,7 @@
 
 - 🎓 &nbsp;Dernière année à l'**ENSICAEN**, majeure Image, Son et IA, après une prépa MPSI/MP
 - 🔬 &nbsp;Quatre mois d'ingénierie IA à la **Bibliothèque nationale et universitaire de Strasbourg**, en partenariat avec la **BnF** : un moteur de recherche **RAG** servi par un LLM local, et des modèles de **deep learning** entraînés puis évalués face aux annotations d'une experte
-- 🧭 &nbsp;Ce qui m'occupe : **LLM, RAG et agents**, **machine learning** et vision par ordinateur, et la **fiabilité** des systèmes qu'on en tire
+- 🧭 &nbsp;Ce qui m'occupe : **LLM, RAG et agents**, **machine learning** et **deep learning**, vision par ordinateur, et la **fiabilité** des systèmes qu'on en tire
 - 🚀 &nbsp;Je cherche un **stage de fin d'études de six mois, en 2027**
 - 🗣️ &nbsp;Arabe, français, anglais
 
