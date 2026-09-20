@@ -72,8 +72,9 @@ sources de données ouvertes. En équipe de trois, en un mois.
 
 **6.** &nbsp;<ins>**[Formula1](https://github.com/amine-sd/Formula1)**</ins> &nbsp;`C/C++` `Algorithmie` `Optimisation`
 
-Un pilote autonome pour simulateur académique : à chaque tour, décider de la trajectoire et de la
-vitesse sous contraintes physiques, sans intervention.
+**Challenge de programmation de l'ENSICAEN** : écrire un pilote autonome pour un simulateur de
+course, qui décide à chaque tour de sa trajectoire et de sa vitesse sous contraintes physiques,
+sans aucune intervention.
 
 > **2ᵉ sur 36.**
 
